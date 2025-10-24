@@ -1,4 +1,4 @@
-Now produce the backup brief.
+Create a new document for the backup brief.
 
 ### Part 2: The Backup Brief
 
